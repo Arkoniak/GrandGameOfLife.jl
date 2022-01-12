@@ -1,7 +1,7 @@
 name = "GrandGameOfLife"
 uuid = "307dbbc8-3393-4c29-a84a-08bd80db9f14"
 authors = ["Andrey Oskin"]
-version = "0.1.0"
+version = "0.1.1"
 
 [compat]
 julia = "1.3"
